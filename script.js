@@ -51,7 +51,7 @@ function desencriptar(stringDesencriptada) {
   return stringDesencriptada
 }
 
-document.getElementById("copiar") = "inherit";
+document.getElementById("copiar") 
 
 function copiar () {
   var contenido = document.querySelector("#texto2");
